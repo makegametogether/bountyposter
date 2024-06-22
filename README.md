@@ -1,10 +1,14 @@
-# bounty_poster
+# bountyposter
 
 BountyPoster is a web application that allows users to transform their photos into custom bounty posters. Perfect for fans of Western themes, role-playing games, or anyone looking for a fun way to edit their images.
 
 ## Demo
 
 Check out the live demo: [BountyPoster Demo](https://dimango.mangveloper.com/poster/en)
+
+## Screenshot
+
+![BountyPoster Screenshot](https://github.com/nightendeavors/bountyposter/blob/main/sample.png?raw=true)
 
 ## Features
 
